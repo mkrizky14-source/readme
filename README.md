@@ -1,66 +1,45 @@
-<!-- Banner -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=4D7FFF&center=true&vCenter=true&width=600&lines=Halo+aku+Rizky!;Frontend+Developer+Pemula;Sedang+Belajar+React+%2F+Web+Dev;Welcome+to+my+GitHub+Profile+✨" />
+</div>
+
+<br>
+
 <p align="center">
+  <img src="https://github.com/mkrizky14-source.png" width="150" style="border-radius:50%;" />
 </p>
 
-<!-- Intro -->
-<h1 align="center">Hi, I'm Nky 👋</h1>
+<h2 align="center">🚀 Tentang Saya</h2>
+
+- 🌱 Sedang belajar **React, JavaScript, HTML, CSS**
+- 💡 Suka bikin web portofolio & UI clean
+- 🎯 Target: Bisa bikin website yang aesthetic dan responsif
+- 📱 Pakai HP Realme C35 kadang buat ngoding 🤣
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  Developer pemula yang suka bikin hal-hal visual, bereksperimen dengan React, dan mengutak-atik ide jadi halaman web yang hidup ⚡  
+  <img src="https://github-readme-stats.vercel.app/api?username=mkrizky14-source&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=mkrizky14-source&theme=tokyonight" height="165"/>
 </p>
 
----
-
-## 🚀 Tentang Saya
-- 🔧 Lagi belajar: **React, Tailwind, Vite**
-- 🎯 Target: Boss muda tampil sederhana
-- 💡 Suka bikin UI yang bersih dan smooth  
-- 📱 Device harian: - 
-- 🏡 Tinggal di Planet lain 
-
----
-
-## 🛠 Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,git,github" />
-</p>
-
----
-
-## 📌 Project Unggulan
-### 🔹 **Magic-Style Portfolio**
-> UI smooth + animasi lembut ala studio kreatif
-
-Repo: *coming soon*  
-Preview: *coming soon*
-
-### 🔹 **Experiment Components**
-> Playground buat tombol, card, navbar, animasi, dan semua eksperimen geje tapi berguna 😄
-
-Repo: *coming soon*
-
----
-
-## 📊 GitHub Stats
 <p align="center">
-  
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mkrizky14-source&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkrizky14-source&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
 ---
 
-## 🌌 Quotes Kecil
-> *“Kode yang bagus itu kayak kopi dingin tenang, jernih, tapi bisa nyetrum kalau kamu salah sentuh.”*
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,github,git,figma" />
+</p>
 
 ---
 
-## 📫 Kontak
-- Instagram: **@nkyy.14**
-- WhatsApp: **081391636468**
-- Email: **mk.rizky.14@gmail.com**
+<h2 align="center">✨ Quote</h2>
 
----
-
-## 🧩 Penutup
-Terima kasih udah mampir!  
-Kalau kamu nemu bug atau ide, buka aja Issue aku suka baca 😉
+<p align="center">
+  <i>"Koding itu bukan soal jago, tapi soal berani mulai."</i>
+</p>
