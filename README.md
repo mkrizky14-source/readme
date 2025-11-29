@@ -44,7 +44,7 @@ Repo: *coming soon*
 ## 📊 GitHub Stats
 <p align="center">
   
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mkrizky14-source&theme=tokyonight" />
 </p>
 
 ---
